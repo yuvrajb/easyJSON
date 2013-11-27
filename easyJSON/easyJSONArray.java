@@ -45,7 +45,7 @@ public class easyJSONArray{
 	public void add(easyJSONArray value){
 		array.add(value);
 	}
-	/* insert key value pair ends here */
+	/* insert elements in array ends here */
 
 	/* return value for an index */
 	public Object get(int index){

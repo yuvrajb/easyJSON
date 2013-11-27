@@ -62,8 +62,14 @@ public class easyJSON{
 	/* return value for a valid key */
 	public Object get(String key){
 		key = "\"" + key + "\"";
-		if(json.containsKey(key))
-			return json.get(key);
+		if(json.containsKey(key)){
+			Object value = json.get(key);
+			if(value instanceof String){
+				String value_str = (String)value;
+				return value_str.substring(1, value_str.length() - 1);
+			}
+			return value;
+		}
 		else
 			return null;
 	}
