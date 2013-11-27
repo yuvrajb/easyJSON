@@ -8,7 +8,7 @@ INFORMATION
 
 Author: Yuvraj Singh Babrah |
 Version: 1.0 |
-Release Date: 28 November 2013 |
+Release Date: 28 November 2013
 
 INSTRUCTIONS
 ============
