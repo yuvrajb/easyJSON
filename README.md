@@ -22,7 +22,7 @@ INSTRUCTIONS
 7. To instantiate the json array object use the easyJSONArray Constructor easyJSONArray array = new easyJSONArray();
 8. To add elements, use the add(Object value) method.
 9. To retreive the value, use the get(int key) method.
-10. To remove an element, use the remove(_) method which takes either of index or Object as a paramenter.
+10. To remove an element, use the remove(_) method which takes either index or Object as a paramenter.
 
 
 CONTACT
