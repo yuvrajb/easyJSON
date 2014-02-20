@@ -3,6 +3,13 @@ easyJSON
 
 An easy to use and light-weight library for creating JSON in java.
 
+UPDATES
+=======
+
+Version: 1.1 | 
+Updated On: 14 February 2014 |
+Description: Support for Java Objects
+
 INFORMATION
 ===========
 
@@ -28,4 +35,4 @@ INSTRUCTIONS
 CONTACT
 =======
 
-If you find any bug or feel that some feature is missing shoot me a mail on yuvrajb@users.noreply.github.com or direct message me on facebook: https://facebook.com/yuvraj.babrah | twitter: https://twitter.com/yuvrajb
+If you find any bug or feel that some feature is missing shoot me a mail on yuvrajb@users.noreply.github.com or direct message me on facebook: https://facebook.com/yuvraj.babrah | twitter: https://twitter.com/yuvrajb | visit: http://yuvrajbabrah.eu5.org
