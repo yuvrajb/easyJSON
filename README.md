@@ -21,7 +21,7 @@ INSTRUCTIONS
 ============
 
 1. Include the easyJSON package in the same path as that of your class files of a JAVA program.
-2. Type "import easyJSON.*" (Basic Step)
+2. Type "import easyJSON.*" (Basic Step) 
 3. A new json object will be created by instantiating the easyJSON class as follows: easyJSON json = new easyJSON();
 4. To add key-value pairs simply use the add(String key, Object value) method as follows: json.add("Name", "Yuvraj Singh Babrah"); json.add("Age", 21); The key-value pairs are in accordance to the json rules laid out on http://json.org
 5. To retrieve a value, use the get(String key) method as follows: json.get("Name"); The key should be in quotes. The return value, if of type String, will be without the quotes.
